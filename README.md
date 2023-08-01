@@ -67,6 +67,45 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+# <h1 align = "center">Responsive TodoList App</h1>
+### <h3 align= "center">Made using complete MERN stack with redux</h1>
+<img src="TodoAppImages/Home.png" width="450" padding="50"> &nbsp; <img src="TodoAppImages/DeleteTodo.png" width="450"> &nbsp; 
+#
+<img src="TodoAppImages/ActiveTodo.png" width="450"> &nbsp; <img src="TodoAppImages/DoneTodo.png" width="450"> &nbsp; 
+#
+<!-- LICENSE -->
+## License
+
+MIT License
+
+This project is licensed under the terms of the MIT License.
+You can find a copy of the license in the LICENSE file or visit
+https://opensource.org/licenses/MIT.
+
+© [2023] [Anurag Komrewar]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - askomrewar@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+I would like to express my gratitude to the following individuals and resources that have contributed to the development of this project:
+
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
